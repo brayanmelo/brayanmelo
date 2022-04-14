@@ -1,6 +1,7 @@
-## Olá, me chamo Brayan sou um programador front-end 💻
+## Olá, me chamo Brayan e sou um programador front-end 💻
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanmelo&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanmelo&layout=compact&theme=github_dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanmelo&layout=compact&theme=github_dark&card_width=300)]
 
 ##
 
